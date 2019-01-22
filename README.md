@@ -1,2 +1,12 @@
-# iOS-code-standard
-基于Effective Objective-C 2.0+平时积累+Apple公司文档总结的代码规范
+## iOS-code-standard
+- 介绍：基于Effective Objective-C 2.0+平时积累+Apple公司文档总结的代码规范
+- 参考文章
+  - [iOS 代码规范篇](https://www.jianshu.com/p/9b10331970a5)
+  - [IOS 编码规范整理](https://www.jianshu.com/p/f13119c179a4)
+  - [iOS开发规范(超详细的)](https://www.jianshu.com/p/1784cd67e8de)
+  - [iOS懒加载的使用及原理](https://www.jianshu.com/p/0b5932a5788d)
+- 主要涉及的点：
+  - NS_ASSUME_NONNULL_BEGIN + NS_ASSUME_NONNULL_END 
+  - @class
+  - 类型常量命名格式
+  - 自定义View的格式
